@@ -2,7 +2,7 @@
 MNIST using BitNet-b1.58
 
 # Usage & Demo
-'''
+```
 $ python mnist.py
 loss:2.2550618648529053  acc:0.25
 loss:2.1745128631591797  acc:0.21875
@@ -104,6 +104,6 @@ loss:0.338573694229126  acc:0.921875
 loss:0.5128055810928345  acc:0.84375
 loss:0.4018169939517975  acc:0.890625
 loss:0.4112584888935089  acc:0.890625
-'''
+```
 
-paper: https://arxiv.org/abs/2402.17764
+paper: https://arxiv.org/abs/2764
